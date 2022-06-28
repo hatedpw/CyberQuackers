@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CyberQuacker Rambling - @hatedpw</title>
+    <link>http://example.org/</link>
+    <description>Recent content on CyberQuacker Rambling - @hatedpw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jun 2022 20:13:34 +0930</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MercyV2WalkThrough</title>
+      <link>http://example.org/posts/MercyV2WalkThrough/</link>
+      <pubDate>Tue, 28 Jun 2022 20:13:34 +0930</pubDate>
+      
+      <guid>http://example.org/posts/MercyV2WalkThrough/</guid>
+      <description>Earlier this month i attended a local sec talk, the main event was working to resolve the MercyV2 vulnhub box.
+Unfornately during the event i couldnt do the box as mac m1s dont support x86 virtual machines :P So i spent most of the night talking shit and helping teach some new cyber trainies steps on how to enumerate the box. No one finished the box or got close at the event that we know of so when i got home i took it as a challenge to finish it.</description>
+    </item>
+    
+    <item>
+      <title>Who the Quack are you?</title>
+      <link>http://example.org/posts/WhoTheQuackAreYou/</link>
+      <pubDate>Tue, 28 Jun 2022 19:58:13 +0930</pubDate>
+      
+      <guid>http://example.org/posts/WhoTheQuackAreYou/</guid>
+      <description>I am just a new cyber security professional who loves ducks.
+Usually can be found doing CTF Challenges Cert training Coding dumb projects Learning low level bug hunting techniques (Im a sucker for memory corruption bugs that stuff is so cool) Reversing Malware - althought i dont get enough time to do this lately :(
+Certs Currently working on obtaining PNPT by TCMSecurity, will be finished by the end of july!</description>
+    </item>
+    
+  </channel>
+</rss>

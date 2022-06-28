@@ -1,0 +1,10 @@
+baseURL = "https://hatedpw.github.io/CyberQuackers/"
+languageCode = "en-us"
+title = "CyberQuacker Rambling - @hatedpw"
+theme = "PaperMod"
+publishDir = "docs"
+
+#add twitter card
+twitterCard = "summary"
+twitterSite = "@hatedpw"
+twitterCreator = "@hatedpw"
