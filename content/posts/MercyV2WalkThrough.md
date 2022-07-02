@@ -6,17 +6,13 @@ draft: false
 URL: "/posts/MercyV2WalkThrough"
 ---
 
-Earlier this month i attended a local sec talk, the main event was working to resolve the [MercyV2](https://www.vulnhub.com/entry/digitalworldlocal-mercy-v2,263/) vulnhub box.
+Earlier this month, I attended a local sec talk. The main event was working to resolve the [MercyV2](https://www.vulnhub.com/entry/digitalworldlocal-mercy-v2,263/) vulnhub box.
 
-Unfornately during the event i couldnt do the box as mac m1s dont support x86 virtual machines :P
-So i spent most of the night talking shit and helping teach some new cyber trainies steps on how to enumerate the box. No one finished the box or got close at the event that we know of so when i got home i took it as a challenge to finish it.   
+Unfortunately during the event, I couldn't do the box as mac m1s don't support x86 virtual machines :P So I spent most of the night talking shit and helping teach some new cyber trainees steps on how to enumerate the box. No one finished the box or got close at the event that we know of so when I got home, I took it as a challenge to finish it.
+MercyV2 is a fun little box that focuses on in-depth enumeration and multi-account escalation. I liked it a lot.
 
-
-MercyV2 is a fun little box that focused on indepth enumeration and multi-account escalation. I liked it a lot. 
-
-Lets begin the walkthrough!
-
-Lets begin with nmap on the device. I usually like to just do a quick scan to see what is running. 
+Let us begin the walkthrough!
+I begin with a Nmap scan on the device. I usually like to do a quick scan to see what is running. 
 
 ``` 
 Nmap 192.168.253.131
@@ -59,8 +55,8 @@ PORT     STATE    SERVICE     VERSION
 ```
 We get back some good information:
 Server running ssh, SMB, apache tomcat/Coyote JSP engine 1.1
-I didnt wanna bruteforce this box so ill skip ssh for now.
-I first wanna start with reviewing the URLs that came back. See if any notes could be found there.
+I dont want to bruteforce this box so ill skip ssh for now.
+I first want to start with reviewing the URLs that came back. See if any notes could be found there.
 port 80 is filter, so ignore.
 8080 is open lets go check it out.
 

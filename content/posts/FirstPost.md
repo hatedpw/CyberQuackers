@@ -7,8 +7,8 @@ URL: "/posts/WhoTheQuackAreYou"
 I am just a new cyber security professional who loves ducks.  
 
 ## Usually can be found doing
-CTF Challenges 
-Cert training
+CTF Challenges - Currently top 3% on Tryhackme
+Cert training 
 Coding dumb projects
 Learning low level bug hunting techniques (Im a sucker for memory corruption bugs that stuff is so cool)
 Reversing Malware - althought i dont get enough time to do this lately :(
