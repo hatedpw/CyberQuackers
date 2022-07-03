@@ -3,24 +3,25 @@ title: "Who the Quack are you?"
 date: 2022-06-28T19:58:13+09:30
 draft: false
 URL: "/posts/WhoTheQuackAreYou"
+tags: ["About Me"]
 ---
 I am just a new cyber security professional who loves ducks.  
 
 ## Usually can be found doing
-CTF Challenges - Currently top 3% on Tryhackme
-Cert training 
-Coding dumb projects
-Learning low level bug hunting techniques (Im a sucker for memory corruption bugs that stuff is so cool)
-Reversing Malware - althought i dont get enough time to do this lately :(
+CTF Challenges - Currently top 3% on Tryhackme  
+Cert training  
+Coding dumb projects  
+Learning low level bug hunting techniques (Im a sucker for memory corruption bugs that stuff is so cool)  
+Reversing Malware - althought i dont get enough time to do this lately :(  
 
 
 ## Certs
-Currently working on obtaining PNPT by TCMSecurity, will be finished by the end of july!
-AWS Cloud Practitioner Certificate
-AZ-104 Microsoft Azure Administrator
-CCNA
-Watchguard Network Security Essentials Training
-Jr Penetration Tester (TryHackMe)
+Currently working on obtaining PNPT by TCMSecurity, will be finished by the end of july!  
+AWS Cloud Practitioner Certificate  
+AZ-104 Microsoft Azure Administrator  
+CCNA  
+Watchguard Network Security Essentials Training  
+Jr Penetration Tester (TryHackMe)  
 
 ## Coding languages
 C / Golang / Python.  

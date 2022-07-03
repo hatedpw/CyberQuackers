@@ -4,6 +4,7 @@ date: 2022-06-28T20:13:34+09:30
 image: "/static/img/mercytomcat.jpg"
 draft: false
 URL: "/posts/MercyV2WalkThrough"
+tags: ["CTF", "Walkthrough"]
 ---
 
 Earlier this month, I attended a local sec talk. The main event was working to resolve the [MercyV2](https://www.vulnhub.com/entry/digitalworldlocal-mercy-v2,263/) vulnhub box.

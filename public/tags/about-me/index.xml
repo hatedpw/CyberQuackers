@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About Me on CyberQuacker Rambling</title>
+    <link>https://hatedpw.github.io/CyberQuackers/tags/about-me/</link>
+    <description>Recent content in About Me on CyberQuacker Rambling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 19:58:13 +0930</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who the Quack are you?</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</link>
+      <pubDate>Tue, 28 Jun 2022 19:58:13 +0930</pubDate>
+      
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</guid>
+      <description>I am just a new cyber security professional who loves ducks.
+Usually can be found doing CTF Challenges - Currently top 3% on Tryhackme
+Cert training
+Coding dumb projects
+Learning low level bug hunting techniques (Im a sucker for memory corruption bugs that stuff is so cool)
+Reversing Malware - althought i dont get enough time to do this lately :(
+Certs Currently working on obtaining PNPT by TCMSecurity, will be finished by the end of july!</description>
+    </item>
+    
+  </channel>
+</rss>
