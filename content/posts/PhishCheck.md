@@ -1,6 +1,6 @@
 ---
 title: "A simple phish leads to a billion dollar company being breached"
-date: 2022-06-28T19:58:13+09:30
+date: 2022-10-07T19:58:13+09:30
 draft: false
 URL: "/posts/a-simple-phish-leads-to-a-billion-dollar-company-being-breached"
 tags: ["CyberSecurity"]
