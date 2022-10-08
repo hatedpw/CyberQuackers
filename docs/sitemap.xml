@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hatedpw.github.io/CyberQuackers/posts/a-simple-phish-leads-to-a-billion-dollar-company-being-breached/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hatedpw.github.io/CyberQuackers/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hatedpw.github.io/CyberQuackers/tags/cybersecurity/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hatedpw.github.io/CyberQuackers/posts/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hatedpw.github.io/CyberQuackers/tags/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hatedpw.github.io/CyberQuackers/tags/ctf/</loc>
     <lastmod>2022-06-28T20:13:34+09:30</lastmod>
   </url><url>
-    <loc>https://hatedpw.github.io/CyberQuackers/</loc>
-    <lastmod>2022-06-28T20:13:34+09:30</lastmod>
-  </url><url>
     <loc>https://hatedpw.github.io/CyberQuackers/posts/MercyV2WalkThrough/</loc>
-    <lastmod>2022-06-28T20:13:34+09:30</lastmod>
-  </url><url>
-    <loc>https://hatedpw.github.io/CyberQuackers/posts/</loc>
-    <lastmod>2022-06-28T20:13:34+09:30</lastmod>
-  </url><url>
-    <loc>https://hatedpw.github.io/CyberQuackers/tags/</loc>
     <lastmod>2022-06-28T20:13:34+09:30</lastmod>
   </url><url>
     <loc>https://hatedpw.github.io/CyberQuackers/tags/walkthrough/</loc>

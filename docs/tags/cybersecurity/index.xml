@@ -5,15 +5,15 @@
     <link>https://hatedpw.github.io/CyberQuackers/tags/cybersecurity/</link>
     <description>Recent content in CyberSecurity on CyberQuacker Rambling</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Jun 2022 19:58:13 +0930</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A simple phish leads to a billion dollar company being breached</title>
       <link>https://hatedpw.github.io/CyberQuackers/posts/a-simple-phish-leads-to-a-billion-dollar-company-being-breached/</link>
-      <pubDate>Tue, 28 Jun 2022 19:58:13 +0930</pubDate>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hatedpw.github.io/CyberQuackers/posts/a-simple-phish-leads-to-a-billion-dollar-company-being-breached/</guid>
       <description>When we think of a company getting breached, gerenerally people think of some advanced attack that took months of planning and execution. But in reality, most breaches are caused by simple mistakes. In this post I will be going over a breach that could likely happen in future and how it could have been prevented.
-So lets start with the basics. What is a breach? A breach is when a hacker gains access to a system and steals data.</description>
+So lets start with the basics. What is a breach? A breach is when a adversary gains access to a system and steals data.</description>
     </item>
     
   </channel>
