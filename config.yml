@@ -80,7 +80,7 @@ params:
 
   homeInfoParams:
     Title: "Hello"
-    Content: I'm a australian penetration tester making my way through life one box at a time. 
+    Content: I'm a australian that loves threat intelligence and penetration testing. The good'ole purple teamer.  
 
   socialIcons:
     - name: github
