@@ -41,11 +41,8 @@ Ive worked in many fields... Im listing them from most recent to least recent.
 Current - Threat Analyst - Cofense:
 
 -Developed custom python scripts to reduce manual effort for APAC threat analysts, resulting in a daily time saving of 30 minutes per team member.
-
 -Performed Dynamic and static malware analysis.
-
 -Utilised expertise in Yara rule development to enhance automated detection in the triage system.
-
 -Monitor Triage systems for new customer-reported suspicious emails and perform initial assessments to determine if they pose a threat to the customer or are benign.
 
 
