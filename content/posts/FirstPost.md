@@ -21,7 +21,7 @@ Coding dumb projects
 Reversing Malware 
 
 
-## Certs
+## Certsdd
 Currently working on obtaining PNPT by TCMSecurity
 AWS Cloud Practitioner Certificate  
 AZ-104 Microsoft Azure Administrator  
