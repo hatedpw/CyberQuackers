@@ -30,10 +30,7 @@ Watchguard Network Security Essentials Training
 Jr Penetration Tester (TryHackMe)  
 
 ## Coding languages
-C / Golang / Python.  
-C for low level fun.  
-Python for POC/quick automation  
-Golang for making POCs more presentable, although i have barely had time to refactor my code from python to Golang lately.   
+C / Golang / Python.   
 
 ## Work History   
 Ive worked in many fields... Im listing them from most recent to least recent. 
