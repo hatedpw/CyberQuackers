@@ -27,23 +27,19 @@ So let us start with the basics. What is a breach? A breach is when an adversary
     </item>
     
     <item>
-      <title>MercyV2WalkThrough</title>
-      <link>https://hatedpw.github.io/CyberQuackers/posts/MercyV2WalkThrough/</link>
-      <pubDate>Tue, 28 Jun 2022 20:13:34 +0930</pubDate>
-      
-      <guid>https://hatedpw.github.io/CyberQuackers/posts/MercyV2WalkThrough/</guid>
-      <description>Earlier this month, I attended a local sec talk. The main event was working to resolve the MercyV2 vulnhub box.
-Unfortunately during the event, I couldn&amp;rsquo;t do the box as mac m1s don&amp;rsquo;t support x86 virtual machines :P So I spent most of the night talking shit and helping teach some new cyber trainees steps on how to enumerate the box. No one finished the box or got close at the event that we know of so when I got home, I took it as a challenge to finish it.</description>
-    </item>
-    
-    <item>
-      <title>Who the Quack are you?</title>
-      <link>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</link>
+      <title>About me?</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/AboutMe/</link>
       <pubDate>Tue, 28 Jun 2022 19:58:13 +0930</pubDate>
       
-      <guid>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</guid>
-      <description>I am a highly skilled and experienced professional with a diverse background in various technical fields, including Threat analysis, DevOps, penetration testing, and incident response. My strong foundation in programming has allowed me to automate tasks and processes, increasing efficiency for my teams. As a specialised generalist, I am able to adapt to new environments and confidently tackle a wide range of challenges.
-In addition to my technical expertise, I have significant experience in management.</description>
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/AboutMe/</guid>
+      <description>Threat Analyst/DevSecOps Guy.
+Publications The Art of Deception: Microsoft Phish Redirects Victims to a Catering Voice Recording
+Double Trouble: Unmasking The EPOS Net Phishing Scheme That Turns Trust Against You
+Technical C / Golang / Python. AWS, Azure, SQL, DyanmoDB, VMWare, Docker, K8, Terraform.
+Certs AWS Cloud Practitioner Certificate
+AZ-104 Microsoft Azure Administrator
+CCNA
+Work History Ive worked in many fields&amp;hellip; Im listing them from most recent to least recent.</description>
     </item>
     
     

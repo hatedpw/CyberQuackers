@@ -7,13 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 28 Jun 2022 19:58:13 +0930</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Who the Quack are you?</title>
-      <link>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</link>
+      <title>About me?</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/AboutMe/</link>
       <pubDate>Tue, 28 Jun 2022 19:58:13 +0930</pubDate>
       
-      <guid>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</guid>
-      <description>I am a highly skilled and experienced professional with a diverse background in various technical fields, including Threat analysis, DevOps, penetration testing, and incident response. My strong foundation in programming has allowed me to automate tasks and processes, increasing efficiency for my teams. As a specialised generalist, I am able to adapt to new environments and confidently tackle a wide range of challenges.
-In addition to my technical expertise, I have significant experience in management.</description>
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/AboutMe/</guid>
+      <description>Threat Analyst/DevSecOps Guy.
+Publications The Art of Deception: Microsoft Phish Redirects Victims to a Catering Voice Recording
+Double Trouble: Unmasking The EPOS Net Phishing Scheme That Turns Trust Against You
+Technical C / Golang / Python. AWS, Azure, SQL, DyanmoDB, VMWare, Docker, K8, Terraform.
+Certs AWS Cloud Practitioner Certificate
+AZ-104 Microsoft Azure Administrator
+CCNA
+Work History Ive worked in many fields&amp;hellip; Im listing them from most recent to least recent.</description>
     </item>
     
   </channel>

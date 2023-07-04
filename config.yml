@@ -80,15 +80,13 @@ params:
 
   homeInfoParams:
     Title: "Hello"
-    Content: I'm a australian that loves threat intelligence and penetration testing. Yea thats two twitters, one intel and one personal. 
+    Content: I'm a australian Threat Analyst/DevSecOps Guy. 
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/Hatedpw"
     - name: github
       url: "https://github.com/hatedpw"
-    - name: twitter
-      url: "https://twitter.com/CyberQuacks"
 
   editPost:
     URL: "https://github.com/hatedpw/CyberQuackers/content"

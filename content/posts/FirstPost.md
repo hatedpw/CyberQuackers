@@ -1,36 +1,27 @@
 ---
-title: "Who the Quack are you?"
+title: "About me?"
 date: 2022-06-28T19:58:13+09:30
 draft: false
-URL: "/posts/WhoTheQuackAreYou"
+URL: "/posts/AboutMe"
 tags: ["About Me"]
 ---
-I am a highly skilled and experienced professional with a diverse background in various technical fields, including Threat analysis, DevOps, penetration testing, and incident response. My strong foundation in programming has allowed me to automate tasks and processes, increasing efficiency for my teams. As a specialised generalist, I am able to adapt to new environments and confidently tackle a wide range of challenges.
 
-In addition to my technical expertise, I have significant experience in management. I have led and mentored teams, developed and implemented processes, and driven projects to successful completion. My leadership skills, combined with my technical expertise, make me a valuable asset to any organisation.
+Threat Analyst/DevSecOps Guy. 
 
-
-Can see some blogs i posted at work:
+## Publications 
+[The Art of Deception: Microsoft Phish Redirects Victims to a Catering Voice Recording](https://cofense.com/blog/the-art-of-deception-microsoft-phish-redirects-victims-to-a-catering-voice-recording/) 
 
 [Double Trouble: Unmasking The EPOS Net Phishing Scheme That Turns Trust Against You](https://cofense.com/blog/double-trouble-unmasking-the-epos-net-phishing-scheme-that-turns-trust-against-you/)
 
-## Usually can be found doing
-CTF Challenges
-Cert training  
-Coding dumb projects
-Reversing Malware 
 
+## Technical
+C / Golang / Python.
+AWS, Azure, SQL, DyanmoDB, VMWare, Docker, K8, Terraform.
 
-## Certsdd
-Currently working on obtaining PNPT by TCMSecurity
+## Certs
 AWS Cloud Practitioner Certificate  
 AZ-104 Microsoft Azure Administrator  
-CCNA  
-Watchguard Network Security Essentials Training  
-Jr Penetration Tester (TryHackMe)  
-
-## Coding languages
-C / Golang / Python.   
+CCNA 
 
 ## Work History   
 Ive worked in many fields... Im listing them from most recent to least recent. 
@@ -44,7 +35,7 @@ Current - Threat Analyst - Cofense:
 
 
 
-9 Months - Graduate Cloud Security Engineer - Fircy:
+Graduate Cloud Security Engineer - Fircy:
 
 -Assisted in development of threat research MVP using Python, AWS, public API, and open-source intelligence.   
 -Created terraform/python automation to speed up security infrastructure deployment, saving time and eliminating repetitive tasks.   
@@ -53,7 +44,7 @@ Current - Threat Analyst - Cofense:
 -Curated and delivered comprehensive security course content and training materials, providing onsite support to ensure high engagement.   
 -Delivered an interactive product demo and raised product awareness at the AISA AdelaideSec conference   
 
-9 Month - Support Engineer - Control Z
+Support Engineer - Control Z
 
 -Developed custom python automation scripts and workflow tasks that streamlined ticket processing, resulting in a 25% reduction in processing time.   
 -Client facing SME service desk, working through support tickets while meeting strict SLA and high KPI.   
@@ -63,7 +54,7 @@ Current - Threat Analyst - Cofense:
 -Configured and maintained VPN and VoIP systems, ensuring reliable remote access and clear voice communication. Troubleshoot issues and provided timely resolution to maintain uninterrupted service.    
 
 
-4 Years as a Coaching video games:
+Video Game Coaching:
 
 -Worked with over 600 individuals and 15 Professional Teams.   
 -Communication building within fast pace competitive environments.    
@@ -72,7 +63,7 @@ Current - Threat Analyst - Cofense:
 -Six top 2 professional League finishes across Oceania, Europe, North and South America.     
 
 
-7 years as a Event manager:
+Event manager:
 
 -Organised and managed over 30 small to large events, successfully coordinating logistics and staff for events with up to 250 participants    
 -Led and managed staff teams of 3-45 people in all stages of event planning and execution, ensuring smooth and successful events    
