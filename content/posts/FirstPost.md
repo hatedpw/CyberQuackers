@@ -2,7 +2,7 @@
 title: "About me?"
 date: 2022-06-28T19:58:13+09:30
 draft: false
-URL: "/posts/aboutme"
+URL: "/posts/Meme"
 tags: ["About Me"]
 ---
 
