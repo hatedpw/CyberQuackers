@@ -18,11 +18,6 @@ Threat Analyst/DevSecOps Guy.
 C / Golang / Python.
 AWS, Azure, SQL, DyanmoDB, VMWare, Docker, K8, Terraform.
 
-## Certs
-AWS Cloud Practitioner Certificate  
-AZ-104 Microsoft Azure Administrator  
-CCNA 
-
 ## Work History   
 Ive worked in many fields... Im listing them from most recent to least recent. 
 
