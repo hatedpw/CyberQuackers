@@ -2,7 +2,7 @@ baseURL: "https://hatedpw.github.io/CyberQuackers/"
 title: "CyberQuacker Rambling"
 paginate: 5
 theme: PaperMod
-publishDir: "docs"
+publishDir: "public"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

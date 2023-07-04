@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Intel on CyberQuacker Rambling</title>
+    <link>https://hatedpw.github.io/CyberQuackers/tags/intel/</link>
+    <description>Recent content in Intel on CyberQuacker Rambling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Malware to rule them all</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/onemalwaretorulethemall/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/onemalwaretorulethemall/</guid>
+      <description>I&amp;rsquo;d like to bring to your attention a new and dangerous attack vector that is spreading malware through .ONE files. These files, also known as Microsoft OneNote files, may appear to be from a trusted source, but in reality, they can contain malwarel.
+In recent months, we have seen an increase in the number of threat actor groups utilizing .ONE files as a means to spread malware. Groups such as Async, Qakbot, and Redline are known to have used this technique to target individuals and organizations alike.</description>
+    </item>
+    
+  </channel>
+</rss>

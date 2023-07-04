@@ -7,18 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 28 Jun 2022 19:58:13 +0930</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Who the Quack are you?</title>
-      <link>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</link>
+      <title>About me?</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/aboutme/</link>
       <pubDate>Tue, 28 Jun 2022 19:58:13 +0930</pubDate>
       
-      <guid>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</guid>
-      <description>I am just a new cyber security professional who loves ducks.
-Usually can be found doing CTF Challenges - Currently top 3% on Tryhackme
-Cert training
-Coding dumb projects
-Learning low level bug hunting techniques (Im a sucker for memory corruption bugs that stuff is so cool)
-Reversing Malware - althought i dont get enough time to do this lately :(
-Certs Currently working on obtaining PNPT by TCMSecurity, will be finished by the end of july!</description>
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/aboutme/</guid>
+      <description>Publications The Art of Deception: Microsoft Phish Redirects Victims to a Catering Voice Recording
+Double Trouble: Unmasking The EPOS Net Phishing Scheme That Turns Trust Against You
+Technical C / Golang / Python. AWS, Azure, SQL, DyanmoDB, VMWare, Docker, K8, Terraform.
+Work History Ive worked in many fields&amp;hellip; Im listing them from most recent to least recent.
+Current - Threat Analyst - Cofense:
+-Developed custom python scripts to reduce manual effort for APAC threat analysts, resulting in a daily time saving of 30 minutes per team member.</description>
     </item>
     
   </channel>

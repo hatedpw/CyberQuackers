@@ -5,30 +5,39 @@
     <link>https://hatedpw.github.io/CyberQuackers/posts/</link>
     <description>Recent content in Posts on CyberQuacker Rambling</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Jun 2022 20:13:34 +0930</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hatedpw.github.io/CyberQuackers/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MercyV2WalkThrough</title>
-      <link>https://hatedpw.github.io/CyberQuackers/posts/MercyV2WalkThrough/</link>
-      <pubDate>Tue, 28 Jun 2022 20:13:34 +0930</pubDate>
+      <title>One Malware to rule them all</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/onemalwaretorulethemall/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hatedpw.github.io/CyberQuackers/posts/MercyV2WalkThrough/</guid>
-      <description>Earlier this month, I attended a local sec talk. The main event was working to resolve the MercyV2 vulnhub box.
-Unfortunately during the event, I couldn&amp;rsquo;t do the box as mac m1s don&amp;rsquo;t support x86 virtual machines :P So I spent most of the night talking shit and helping teach some new cyber trainees steps on how to enumerate the box. No one finished the box or got close at the event that we know of so when I got home, I took it as a challenge to finish it.</description>
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/onemalwaretorulethemall/</guid>
+      <description>I&amp;rsquo;d like to bring to your attention a new and dangerous attack vector that is spreading malware through .ONE files. These files, also known as Microsoft OneNote files, may appear to be from a trusted source, but in reality, they can contain malwarel.
+In recent months, we have seen an increase in the number of threat actor groups utilizing .ONE files as a means to spread malware. Groups such as Async, Qakbot, and Redline are known to have used this technique to target individuals and organizations alike.</description>
     </item>
     
     <item>
-      <title>Who the Quack are you?</title>
-      <link>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</link>
+      <title>A simple phish leads to a billion dollar company being breached</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/a-simple-phish-leads-to-a-billion-dollar-company-being-breached/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/a-simple-phish-leads-to-a-billion-dollar-company-being-breached/</guid>
+      <description>When we think of a company getting breached generally, people think of some advanced attack that took months of planning and execution. But in reality, most breaches are caused by simple mistakes. So in this post, I will be going over a breach that could likely happen in the future and how it could have been prevented.
+So let us start with the basics. What is a breach? A breach is when an adversary gains access to a system and steals data.</description>
+    </item>
+    
+    <item>
+      <title>About me?</title>
+      <link>https://hatedpw.github.io/CyberQuackers/posts/aboutme/</link>
       <pubDate>Tue, 28 Jun 2022 19:58:13 +0930</pubDate>
       
-      <guid>https://hatedpw.github.io/CyberQuackers/posts/WhoTheQuackAreYou/</guid>
-      <description>I am just a new cyber security professional who loves ducks.
-Usually can be found doing CTF Challenges - Currently top 3% on Tryhackme
-Cert training
-Coding dumb projects
-Learning low level bug hunting techniques (Im a sucker for memory corruption bugs that stuff is so cool)
-Reversing Malware - althought i dont get enough time to do this lately :(
-Certs Currently working on obtaining PNPT by TCMSecurity, will be finished by the end of july!</description>
+      <guid>https://hatedpw.github.io/CyberQuackers/posts/aboutme/</guid>
+      <description>Publications The Art of Deception: Microsoft Phish Redirects Victims to a Catering Voice Recording
+Double Trouble: Unmasking The EPOS Net Phishing Scheme That Turns Trust Against You
+Technical C / Golang / Python. AWS, Azure, SQL, DyanmoDB, VMWare, Docker, K8, Terraform.
+Work History Ive worked in many fields&amp;hellip; Im listing them from most recent to least recent.
+Current - Threat Analyst - Cofense:
+-Developed custom python scripts to reduce manual effort for APAC threat analysts, resulting in a daily time saving of 30 minutes per team member.</description>
     </item>
     
   </channel>
