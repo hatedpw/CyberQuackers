@@ -2,11 +2,11 @@
 title: "Who the Quack are you?"
 date: 2022-06-28T19:58:13+09:30
 draft: false
-URL: "/posts/WhoTheQuackAreYou"
+URL: "/posts/aboutme"
 tags: ["About Me"]
 ---
 
-
+a
 ## Publications 
 [The Art of Deception: Microsoft Phish Redirects Victims to a Catering Voice Recording](https://cofense.com/blog/the-art-of-deception-microsoft-phish-redirects-victims-to-a-catering-voice-recording/) 
 
