@@ -1,8 +1,8 @@
 ---
-title: "About me?"
+title: "Who the Quack are you?"
 date: 2022-06-28T19:58:13+09:30
 draft: false
-URL: "/posts/please-work"
+URL: "/posts/WhoTheQuackAreYou"
 tags: ["About Me"]
 ---
 
