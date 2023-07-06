@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://hatedpw.github.io/CyberQuackers/sitemap.xml
