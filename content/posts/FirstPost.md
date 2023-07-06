@@ -1,6 +1,6 @@
 ---
 title: "Who the Quack are you?"
-date: 2022-06-28T19:58:13+09:30
+date: 2022-06-28
 draft: false
 ---
 
