@@ -2,7 +2,7 @@
 title: "Who the Quack are you?"
 date: 2022-06-28T19:58:13+09:30
 draft: false
-URL: "/posts/aboutme/e"
+URL: "/posts/aboutme"
 ---
 
 a
