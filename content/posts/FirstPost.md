@@ -5,7 +5,6 @@ draft: false
 URL: "/posts/aboutme"
 ---
 
-a
 ## Publications 
 [The Art of Deception: Microsoft Phish Redirects Victims to a Catering Voice Recording](https://cofense.com/blog/the-art-of-deception-microsoft-phish-redirects-victims-to-a-catering-voice-recording/) 
 
